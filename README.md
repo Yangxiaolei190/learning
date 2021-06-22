@@ -3,7 +3,7 @@
  * @Author: m.justin.yang@lookout.com
  * @Date: 2021-06-16 09:21:04
  * @LastEditors: m.justin.yang@lookout.com
- * @LastEditTime: 2021-06-22 10:52:56
+ * @LastEditTime: 2021-06-22 11:11:07
  * @FilePath: \vue-deep\README.md
 -->
 # vue-deep
@@ -28,7 +28,6 @@ yarn build
 ```
 yarn lint
 ```
-
 
 ### git仓库使用
 ```
