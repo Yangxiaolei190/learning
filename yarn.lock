@@ -8957,6 +8957,11 @@ vue-video-player@^5.0.2:
     videojs-flash "^2.1.0"
     videojs-hotkeys "^0.2.20"
 
+vue@^2.6.11:
+  version "2.6.14"
+  resolved "https://registry.nlark.com/vue/download/vue-2.6.14.tgz#e51aa5250250d569a3fbad3a8a5a687d6036e235"
+  integrity sha1-5RqlJQJQ1Wmj+606ilpofWA24jU=
+
 vuex@^3.4.0:
   version "3.6.2"
   resolved "https://registry.nlark.com/vuex/download/vuex-3.6.2.tgz#236bc086a870c3ae79946f107f16de59d5895e71"

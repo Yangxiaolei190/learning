@@ -3,20 +3,22 @@
  * @Author: m.justin.yang@lookout.com
  * @Date: 2021-06-22 14:58:53
  * @LastEditors: m.justin.yang@lookout.com
- * @LastEditTime: 2021-06-24 11:36:00
+ * @LastEditTime: 2021-06-24 11:53:02
  * @FilePath: \vue-deep\src\views\home\homePage.vue
 -->
 <!-- description: xxl -->
 <template>
   <section>
-    <div style="border:1px solid red">
-      123
-    </div>
+    <vue-video-player />
   </section>
 </template>
 
 <script>
+import vueVideoPlayer from '../../components/vueVideoPlayer.vue'
 export default {
+  components: {
+    vueVideoPlayer
+  },
   data() {
     return {
 
