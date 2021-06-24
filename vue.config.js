@@ -3,7 +3,7 @@
  * @Author: m.justin.yang@lookout.com
  * @Date: 2021-06-22 14:24:56
  * @LastEditors: m.justin.yang@lookout.com
- * @LastEditTime: 2021-06-22 14:37:02
+ * @LastEditTime: 2021-06-24 11:28:02
  * @FilePath: \vue-deep\vue.config.js
  */
 
@@ -35,7 +35,7 @@ module.exports = {
       }
     },
     disableHostCheck: true,
-    port: 8081
+    port: 8080
   },
   lintOnSave: true,
   pluginOptions: {
